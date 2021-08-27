@@ -1,5 +1,4 @@
 # Default ignored files
 /shelf/
-/*.xml
 /.idea
-/.out
+/out/**.*
